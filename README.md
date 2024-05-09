@@ -23,7 +23,6 @@ My NickName in HackerRank is **Potato Loan**
 |6|[Weather Observation Station 5.sql](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|30|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/49543ec2acf859b769e80f670bf062bf99e078a6/Easy%20Solutions/Weather%20Observation%20Station%205.sql)|
 
 
-
 ### DIFFICULTY: Medium
 
 | Number | Challenge Name | Score | Solution |
@@ -38,3 +37,4 @@ My NickName in HackerRank is **Potato Loan**
 |8|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs?isFullScreen=true)|40|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/78c9c9dc29221e055f27a67b1f6ac06a4268c52b/Medium%20Solutions/Symmetric%20Pairs.sql)|
 |9|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|20|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/2c35a393b9f92dbae47184bf1a2442dd8b95d658/Medium%20Solutions/The%20Report.sql)|
 |10|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|30|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/dfb108ad87faff249a05b93c246055d30dbb244e/Medium%20Solutions/Top%20Competitors.sql)|
+|11|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|30|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/0950f39ec887585be6bc5d26e4e9410e55d22ede/Medium%20Solutions/Ollivander's%20Inventory.sql)|
