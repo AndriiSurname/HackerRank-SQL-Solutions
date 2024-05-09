@@ -20,6 +20,7 @@ My NickName in HackerRank is **Potato Loan**
 |3|[Select All](https://www.hackerrank.com/challenges/select-all-sql?isFullScreen=true)|10|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/378a3106ab146868fecd11659737fe8f178ed8a1/Easy%20Solutions/Select%20All.sql)|
 |4|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|10|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/60b640b465380ce1207a5958596b2881c523ad13/Easy%20Solutions/Select%20By%20ID.sql)|
 |5|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|10|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blame/48d8ec3346d9c07e79ab21a277a7597da5e27b3c/Easy%20Solutions/%20Employee%20Salaries.sql)|
+|6|[Weather Observation Station 5.sql](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|30|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/49543ec2acf859b769e80f670bf062bf99e078a6/Easy%20Solutions/Weather%20Observation%20Station%205.sql)|
 
 
 
