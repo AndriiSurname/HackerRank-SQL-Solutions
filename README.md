@@ -37,4 +37,4 @@ My NickName in HackerRank is **Potato Loan**
 |7|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20?isFullScreen=true)|40|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/1ef7a6359f78466f25b7f921ea4606330730a6a6/Medium%20Solutions/Weather%20Observation%20Station%2020.sql)|
 |8|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs?isFullScreen=true)|40|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/78c9c9dc29221e055f27a67b1f6ac06a4268c52b/Medium%20Solutions/Symmetric%20Pairs.sql)|
 |9|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|20|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/2c35a393b9f92dbae47184bf1a2442dd8b95d658/Medium%20Solutions/The%20Report.sql)|
-
+|10|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|30|[SQL](https://github.com/AndriiSurname/HackerRank-SQL-Solutions/blob/dfb108ad87faff249a05b93c246055d30dbb244e/Medium%20Solutions/Top%20Competitors.sql)|
