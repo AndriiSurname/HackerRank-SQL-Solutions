@@ -1,0 +1,3 @@
+# Author: AndriiSurname
+SELECT CITY, STATE
+FROM STATION;
